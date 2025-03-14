@@ -77,7 +77,7 @@ This query shows the total number of hours worked, sales made, revenue acquired,
 ![image](https://github.com/user-attachments/assets/063acdef-071f-4f00-a9fd-1007464e08f2)
 This query would help Starbucks identify peak and slower hours, allowing them to prepare for better staffing and inventory management. By identifying and understanding hourly sales trends, the Starbucks on Alps can optimize scheduling and promotions to maximize revenue.
 
-Database Information
+Database Information 
 
 ![image](https://github.com/user-attachments/assets/fe4d0ebe-6eb6-4697-a0d4-e07939ca90b8)
 
