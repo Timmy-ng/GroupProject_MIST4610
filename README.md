@@ -7,6 +7,7 @@ Chadha, Jasmine
 McNally, Owen
 Mulnix, Hayden
 Nguyen, Timmy
+
 Problem Discription
 Our Starbucks Database is designed to enhance the quality and efficiency of service at our local college coffee shop. It provides a comprehensive view of key operations, including ingredients used in food and beverages, menu offerings, sales transactions, and employee performance. This database enables us to generate valuable insights for improving sales revenue, tracking employee performance, and implementing targeted marketing strategies. With this system, Starbucks management can optimize operations, streamline service, and maximize overall efficiency.
 
