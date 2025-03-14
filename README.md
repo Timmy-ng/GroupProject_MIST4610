@@ -76,7 +76,9 @@ While this specific example is limited to March 10, 2024 the query can be edited
 This query shows the total number of hours worked, sales made, revenue acquired, and average revenue per sale for each hour in a given day.
 ![image](https://github.com/user-attachments/assets/063acdef-071f-4f00-a9fd-1007464e08f2)
 This query would help Starbucks identify peak and slower hours, allowing them to prepare for better staffing and inventory management. By identifying and understanding hourly sales trends, the Starbucks on Alps can optimize scheduling and promotions to maximize revenue.
+
 Database Information
+
 ![image](https://github.com/user-attachments/assets/fe4d0ebe-6eb6-4697-a0d4-e07939ca90b8)
 
 
